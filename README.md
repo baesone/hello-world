@@ -1,2 +1,4 @@
 # hello-world
-Gettin my learn on
+
+Yo!
+Training day! Woot!
